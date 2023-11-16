@@ -11,9 +11,7 @@
 
 ## Introduction
 
-A boilerplate of AI Chatbot built with Pinecone, LangChain, HarperDB and Next.js, deployed to Vercel.
-
-Built with [Pinecone](https://pinecone.io), [Next.js](https://nextjs.org), [Vercel](https://vercel.com), [HarperDB](https://harperdb.io), [LangChain](https://js.langchain.com/) and [TailwindCSS](https://tailwindcss.com).
+A boilerplate of AI Chatbot built with [Pinecone](https://pinecone.io), [Next.js](https://nextjs.org), [Vercel](https://vercel.com), [HarperDB](https://harperdb.io), [LangChain](https://js.langchain.com/) and [TailwindCSS](https://tailwindcss.com).
 
 ## Tech Stack
 
