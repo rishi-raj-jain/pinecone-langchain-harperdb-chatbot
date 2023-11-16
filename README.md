@@ -17,7 +17,7 @@ A boilerplate of AI Chatbot built with [Pinecone](https://pinecone.io), [Next.js
 
 - [HarperDB CRUD API](lib/harper.js) - NoSQL insert, delete, update and retrieve for a SQL database with HarperDB
 - 
-- [HarperDB Rate Limiter](lib/ratelimit.js) - Rate Limiting requests to 3 per user per 86400 seconds
+- [HarperDB Rate Limiter](lib/ratelimit.js) - Rate Limiting requests to 5 per user per 86400 seconds
 
 ### UI
 
