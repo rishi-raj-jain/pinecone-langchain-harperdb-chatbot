@@ -1,4 +1,4 @@
-<h1 align="center">AI Chatbot built with Pinecone, LangChain, HarperDB and Next.js, deployed to Vercel</h1>
+# AI Chatbot built with Pinecone, LangChain, HarperDB and Next.js, deployed to Vercel
 
 <a href="#introduction"><strong>Introduction</strong></a> · <a href="#tech-stack"><strong>Tech Stack</strong></a> · <a href="#author"><strong>Author</strong></a>
 <br/>
