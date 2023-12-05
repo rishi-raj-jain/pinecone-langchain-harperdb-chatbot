@@ -1,4 +1,4 @@
-<img alt="AI Chatbot built with Pinecone, LangChain, HarperDB and Next.js, deployed to Vercel" src="https://pbs.twimg.com/card_img/1725553381740048384/8_90CH1J?format=jpg&name=medium" />
+<img alt="AI Chatbot built with Pinecone, LangChain, HarperDB and Next.js, deployed to Vercel" src="https://assets-global.website-files.com/6377ac1a39ff1e65214224e5/65569d4ed877ec3f0c47c5ed_Building%20Real-Time%20AI%20Chatbot%20-%20Social.jpg" />
 
 # AI Chatbot built with Pinecone, LangChain, HarperDB and Next.js, deployed to Vercel
 
